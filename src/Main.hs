@@ -29,4 +29,4 @@ oatmeal_temp_to_adjustment temp = if temp > perfect
 				  then Main.Right
 				  else Main.Nothing
 
-main = print("Hello")
+main = print("Ok")
